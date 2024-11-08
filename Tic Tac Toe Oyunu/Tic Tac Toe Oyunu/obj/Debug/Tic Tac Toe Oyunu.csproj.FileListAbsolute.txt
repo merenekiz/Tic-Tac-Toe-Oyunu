@@ -1,0 +1,10 @@
+C:\Users\meren\source\repos\Tic Tac Toe Oyunu\Tic Tac Toe Oyunu\bin\Debug\Tic Tac Toe Oyunu.exe.config
+C:\Users\meren\source\repos\Tic Tac Toe Oyunu\Tic Tac Toe Oyunu\bin\Debug\Tic Tac Toe Oyunu.exe
+C:\Users\meren\source\repos\Tic Tac Toe Oyunu\Tic Tac Toe Oyunu\bin\Debug\Tic Tac Toe Oyunu.pdb
+C:\Users\meren\source\repos\Tic Tac Toe Oyunu\Tic Tac Toe Oyunu\obj\Debug\Tic Tac Toe Oyunu.csprojAssemblyReference.cache
+C:\Users\meren\source\repos\Tic Tac Toe Oyunu\Tic Tac Toe Oyunu\obj\Debug\Tic_Tac_Toe_Oyunu.Form1.resources
+C:\Users\meren\source\repos\Tic Tac Toe Oyunu\Tic Tac Toe Oyunu\obj\Debug\Tic_Tac_Toe_Oyunu.Properties.Resources.resources
+C:\Users\meren\source\repos\Tic Tac Toe Oyunu\Tic Tac Toe Oyunu\obj\Debug\Tic Tac Toe Oyunu.csproj.GenerateResource.cache
+C:\Users\meren\source\repos\Tic Tac Toe Oyunu\Tic Tac Toe Oyunu\obj\Debug\Tic Tac Toe Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\meren\source\repos\Tic Tac Toe Oyunu\Tic Tac Toe Oyunu\obj\Debug\Tic Tac Toe Oyunu.exe
+C:\Users\meren\source\repos\Tic Tac Toe Oyunu\Tic Tac Toe Oyunu\obj\Debug\Tic Tac Toe Oyunu.pdb
